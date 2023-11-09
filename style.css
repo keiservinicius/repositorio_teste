@@ -4,12 +4,12 @@ body{
 
 
 .principal{
-background-color: navy;
+background-color: rgb(211, 248, 0);
 color: aliceblue;
 }
 
 .rodape{
-background-color: rgb(128, 126, 0);
+background-color: rgb(255, 255, 255);
 color: aliceblue;
 text-align: center;
 }
