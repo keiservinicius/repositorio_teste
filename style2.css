@@ -1,0 +1,9 @@
+.cabecalho{
+    background-color: azure;
+    border: 10px;
+    border-color: brown;
+    border-style: dashed;
+    margin: 10px;
+    color: aliceblue;
+    font-weight: 400;
+}
