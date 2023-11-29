@@ -5,7 +5,12 @@
     border-style: none;
     margin: 10px;
     color: aliceblue;
-    font-weight: 1000;
+    font-weight: 300;
+}
+
+#tigrinho{
+    width: 1000px;
+
 }
 
 .principal{
