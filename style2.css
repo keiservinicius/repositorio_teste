@@ -9,17 +9,17 @@
 }
 
 #tigrinho{
-    width: 1000px;
+    width: 1200px;
 
 }
 
 .lista-links{
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(0, 136, 255);
 }
 
 .lista-links:hover{
-    font-size: 40px;
+    font-size: 45px;
     color: rgb(253, 40, 2);
 }
 
